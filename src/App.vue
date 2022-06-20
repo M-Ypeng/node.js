@@ -16,6 +16,7 @@
   </div>
 </template>
 
+<!-- 写一下注释 -->
 <script>
 import FOG from "vanta/src/vanta.fog";
 import NET from "vanta/src/vanta.net";
